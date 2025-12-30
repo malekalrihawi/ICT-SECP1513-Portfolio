@@ -1,7 +1,9 @@
 # My TIS E-Portfolio
 
 ## 👤 Student Profile
-<img src=" C:\Users\malek\Downloads\شعار المستشار المالي الحديث باللونين الذهبي والأزرق(2).png " width="150" height="150">
+
+<img width="150" height="150" alt="شعار المستشار المالي الحديث باللونين الذهبي والأزرق(2)" src="https://github.com/user-attachments/assets/a41e8744-3ab9-41ad-8bd9-aedff8807766" />
+            
 
 * **Name:** MALEK ALRIHAWI
 * **Matric No:** A25CS4013
