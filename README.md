@@ -21,5 +21,5 @@ Here is a collection of my tasks and projects for the Technology and Information
 ### 2. 💡 [Design Thinking Project](./Design_Thinking.md)
 *Developing a Low Fidelity Prototype based on the Design Thinking process steps.*
 
-### 3. 🏭 [Industry Talk & Visit](./Industry_Visit.md)
+### 3. 🏭 [Industry Talk & Visit](Industry_Talk_Visit.md)
 *Insights and key takeaways from the industrial visit and expert talk.*
